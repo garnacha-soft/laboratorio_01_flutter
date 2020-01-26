@@ -1,4 +1,4 @@
-# lab_01
+# laboratorio 1 del curso de flutter básico
 
 A new Flutter project.
 
